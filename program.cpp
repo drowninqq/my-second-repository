@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-    cout<<"Hello from the 'main' branch!";
+    cout<<"Hello from the 'main' & 'develop' branches!";
 }
